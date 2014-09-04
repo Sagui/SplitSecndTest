@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using Machine.Specifications;
 using OpenQA.Selenium.Firefox;
-using OpenQA.Selenium.Support.UI;
 using JQSelenium;
 namespace SplitSecnd.AAT
 {
@@ -13,7 +8,7 @@ namespace SplitSecnd.AAT
 
     public class when_logging_in_purshase_page
     {
-        //testing sjndjnfjfnjf 
+        //cd split
          
         private Establish context =
             () =>
