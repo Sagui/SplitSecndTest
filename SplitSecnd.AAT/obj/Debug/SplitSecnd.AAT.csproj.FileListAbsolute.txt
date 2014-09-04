@@ -1,0 +1,13 @@
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\bin\Debug\SplitSecnd.AAT.dll
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\bin\Debug\SplitSecnd.AAT.pdb
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\bin\Debug\JQSelenium.dll
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\bin\Debug\Machine.Specifications.Clr4.dll
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\bin\Debug\Machine.Specifications.dll
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\bin\Debug\Machine.Specifications.Should.dll
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\bin\Debug\WebDriver.dll
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\bin\Debug\WebDriver.Support.dll
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\bin\Debug\WebDriver.xml
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\bin\Debug\WebDriver.Support.xml
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\obj\Debug\SplitSecnd.AAT.csprojResolveAssemblyReference.cache
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\obj\Debug\SplitSecnd.AAT.dll
+C:\AcklenAvenue\SplitSecndTest\SplitSecnd.AAT\obj\Debug\SplitSecnd.AAT.pdb
